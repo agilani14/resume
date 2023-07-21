@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "agilani14-resume",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "url": "agilani14"
   },
   "author": "Aneesa",
-  "license": "ISC"
-},
-"bin": {
-  "resume-me": "./index.js"
-},
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
